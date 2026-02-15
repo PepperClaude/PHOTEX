@@ -54,4 +54,3 @@ PHOTEX develops photonic inference accelerators using 3D volumetric holographic 
 
 ## License
 
-See [LICENSE](LICENSE).
