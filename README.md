@@ -19,7 +19,7 @@ PHOTEX develops photonic inference accelerators using 3D volumetric holographic 
 
 ## What We're Building
 
-- **Holo-Pod Tuna Can** — A compact photonic inference accelerator using volumetric holographic crystals
+- **PHOTEX* — A compact photonic inference accelerator using volumetric holographic crystals
 - **Angular Spectrum Method (ASM)** — Wave propagation at the speed of light
 - **Volumetric multiplexing** — 3D stacked crystals with angular multiplexing for trillion-parameter capacity
 - **Error correction** — 50% density for redundancy; multi-run averaging for 99% accuracy
